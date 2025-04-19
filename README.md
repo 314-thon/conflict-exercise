@@ -1,4 +1,5 @@
 # conflict-exercise
 Estudiante: Avilas Martín Jonás
 
-Realizamos cambio en el txt en la línea main para forzar el error 
+Este es un cambio en la feature branch.
+Este es un cambio en la feature branch.
